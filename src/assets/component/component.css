@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    background-color: wheat;
+}
+.left {
+    width: 100px;
+    height: 500px;
+    background-color: tomato;
+}
+.right {
+    width: 100px;
+    height: 500px;
+    background-color: tomato;
+}
